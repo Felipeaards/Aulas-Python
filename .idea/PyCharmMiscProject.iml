@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Aula-02/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Aula-03/Aula-04/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.13 (PyCharmMiscProject)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="~\Workspace\Python\Aulas-Python\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
